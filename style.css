@@ -91,6 +91,8 @@ body{
     top: 20px;
     padding: 6px 8px;
     background-color: rgb(15, 15, 15);
+    display: flex;
+    justify-content: center;
     font-size: 16px;
     border-radius: 6px;
     visibility: hidden;
